@@ -6,7 +6,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * A simple DTO for the address book example.
+ * A simple DTO for the address book example. . . . . . . .  x x x x x x x x x x x x x x x x x x
  *
  * Serializable and cloneable Java Object that are typically persisted
  * in the database and can also be easily converted to different formats like JSON.
