@@ -71,7 +71,7 @@ public class CaseInsensitiveComparator extends GenericComparator {
                 return response;
         }
         /*
-         * This Method is the overridden compareActual of GenericComparator. .
+         * This Method is the overridden compareActual of GenericComparator. . . . . . . . . . . . . . . . . . 
          * If the data type is String then it convert string to upper case and compare it with other.
          */
         protected int compareActual(Object v1, Object v2, String returnType) {
