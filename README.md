@@ -10,3 +10,4 @@ Edit 8 Trying again
 Edit 9 added / in the end of the URL
 Edit 10 re-test after break
 Edit 11 changed jenkins server back to http://192.168.10.12:8080/ testing again
+Edit 12 Code was pushed from webhook. The problem was with Public network connectivity. Looked for NGROK alternatives. Seems like NGROK is the best.
