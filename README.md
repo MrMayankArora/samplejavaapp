@@ -9,3 +9,4 @@ Edit 7 Configured WebHook with ngrok
 Edit 8 Trying again
 Edit 9 added / in the end of the URL
 Edit 10 re-test after break
+Edit 11 changed jenkins server back to http://192.168.10.12:8080/ testing again
